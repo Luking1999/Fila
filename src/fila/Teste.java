@@ -1,6 +1,6 @@
-package main;
+package fila;
 
-public class main {
+public class Teste {
 	public static void main(String[] args) {
 
 	Fila newFila = new Fila();
