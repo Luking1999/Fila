@@ -1,0 +1,3 @@
+module Fila {
+	exports main;
+}
